@@ -215,3 +215,7 @@ body {
   transform-origin: 50% 50%;
   animation-timing-function: linear;
 }/*# sourceMappingURL=app.css.map */
+
+.yes-btn {
+  margin-right: 20px;
+}
